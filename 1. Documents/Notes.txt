@@ -1,0 +1,9 @@
+﻿1. Business Model - Vĩnh - Done
+2. Design Specification - Phong - Need Verify
+2.1 Overview - Hoàng - Done
+2.2 Use case - Vĩnh - Done
+2.3 ERD - Hoàng - Need reformat
+2.4 Class diagram - Phúc - Need reformat
+2.5 Sequence diagram - Phúc
+3. Implementation - Hoàng
+4. Maintenance Plan - Phúc
